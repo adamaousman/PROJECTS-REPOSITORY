@@ -23,7 +23,7 @@ PDF Toolkit is a **console-based Python application** that performs three tasks 
 9. [Common errors and fixes](#common-errors-and-fixes)
 10. [Limitations](#limitations)
 11. [Future improvements](#future-improvements)
-12. [Authors](#authors)
+12. [Author](#author)
 
 ---
 
