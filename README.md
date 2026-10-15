@@ -322,3 +322,8 @@ python pdf_toolkit.py
 - Split by a list of pages (for example `1,3,5-7`)
 - OCR support for scanned PDFs
 - An option to password-protect a PDF
+
+---
+
+## Author
+Name: ADAMA OUSMAN ADOUM
